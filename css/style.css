@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgb(72, 71, 71);
 	}
 	.icons {
 		font-size: 18px;
@@ -135,7 +135,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.2em;
-		color: darkgray;
+		color: rgb(8, 8, 8);
 	}
 	.icons {
 		font-size: 11px;
